@@ -1,0 +1,3 @@
+[submodule "src/server/TrainsProtocolJava"]
+	path = src/server/TrainsProtocolJava
+	url = https://github.com/simatic/TrainsProtocolJava.git
